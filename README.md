@@ -1,10 +1,10 @@
-Api-cep | Projeto em andamento
-<h3>Consumo de api em java para localizar seu cep e mostrar informações dele.</h1>
-<h4>O projeto contará com aplicação frontend mostrando na tela do usuário para digitar seu cep e exibir as informações como longradouro, uf, bairro e estado.</h2>
+Api-cep | 
+<h3>Consumo de api em java para localizar seu cep e mostrar informações de seu endereço.</h1>
+exemplo: Logradouro, uf, bairro, localidade e complemento
 
 ###
 
-<h4>Stack:</h4>
+<h4>Stack e frameworks</h4>
 - Java
 - Spring
 - Maven
